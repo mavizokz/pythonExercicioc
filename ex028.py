@@ -9,6 +9,6 @@ n2 = random.randint(0,5)
 print('\033[1;32mPROCESSANDO. . .\033[m')
 time.sleep(2)
 if r == n2:
-    print('Cagou muito em rei, acertou!!!')
+    print('Acertou!!!')
 else:
-    print('Ruizão, o número era {}'.format(n2))
+    print('Boa tentativa, o número era {}'.format(n2))

@@ -5,7 +5,7 @@ print('\033[33m-=-\033[m'*20)
 #cliente colocando as infos
 casa=float(input('Qual é o valor da casa?: R$'))
 s=float(input('Informe o seu salário: R$'))
-anos=int(input('Quantos anos ou  pretende pagar?(infrome numeros inteiros pfvr) '))
+anos=int(input('Quantos anos  pretende pagar?(infrome numeros inteiros pfvr) '))
 #calculos
 meses=anos*12
 pres = casa/meses

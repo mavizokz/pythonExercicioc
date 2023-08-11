@@ -16,4 +16,4 @@ elif modo == 3:
     hexa = hex(num)[2:]
     print(hexa)
 else:
-    print('Ta  todo burro né fio')
+    print('Tente novamente')

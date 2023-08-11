@@ -6,7 +6,7 @@ frase_sem_espacos = f.replace(' ', '')
 print(f'O inverso de {frase_sem_espacos} é {frase_sem_espacos[::-1]}')
 
 if frase_sem_espacos==frase_sem_espacos[::-1]:
-    print('é palídromo')
+    print('É palídromo')
 else:
     print('Não é Palíndromo')
 
